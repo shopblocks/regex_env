@@ -1,7 +1,10 @@
 [package]
 name = "regex_env"
 version = "0.1.0"
+description = "A wrapper for Regex, useful for parsing .env files and getting values without them being loaded into the environment"
+repository = "https://github.com/shopblocks/regex_env"
 authors = ["Alex Bowers <alex@shopblocks.com>"]
+license = "Apache 2.0"
 
 [dependencies]
 regex = "0.2"
