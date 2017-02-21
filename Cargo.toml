@@ -1,0 +1,7 @@
+[package]
+name = "regex_env"
+version = "0.1.0"
+authors = ["Alex Bowers <alex@shopblocks.com>"]
+
+[dependencies]
+regex = "0.2"
